@@ -1,46 +1,35 @@
 {
-    "title": "Auroraの主页",
+    "title": "Tooong主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Aurora,个人主页",
-    "author": "Aurora",
+    "keywords": "Tooong个人主页",
+    "author": "Tooong",
     "logo_img": "./img/icon/avatar.jpg",
-    "logo_text_1": "wuhobin",
-    "logo_text_2": "top",
-    "github": "wuhobin",
-    "qq": "1289066006",
-    "email": "1289066006@qq.com",
-    "bilibili": "495003013",
-    "facebook": "bottom_user",
+    "logo_text_1": "Tooong",
+    "logo_text_2": "我遇见你是最美丽的意外",
+    "github": "chenbutong114514",
+    "qq": "3150223675",
+    "email": "3150223675@qq.com",
+    "bilibili": "1813510436",
     "link_1": [
-        "http://blog.wuhobin.top/",
+        "http://bilibili.com/",
         "fa-solid fa-blog",
-        "博客"
+        "b站"
     ],
     "link_2": [
-        "https://tongji.baidu.com/",
+        "https://github.com",
         "fa-solid fa-cloud",
-        "统计"
+        "github"
     ],
     "link_3": [
-        "http://www.wuhobin.top/",
+        "http://www.baidu.com/",
         "fa-solid fa-compass",
-        "起始页"
+        "百度"
     ],
     "link_4": [
-        "https://codenote.wuhobin.top",
-        "fa-solid fa-book-bookmark",
-        "编程宝典"
-    ],
-    "link_5": [
-        "http://www.wuhobin.top/",
+        "chenbutong114514.github.io",
         "fa-solid fa-flask",
-        "开发中..."
+        "主页"
     ],
-    "link_6": [
-        "http://www.wuhobin.top/",
-        "fa-solid fa-flask",
-        "敬请期待..."
-    ],
-    "Copyright_text": "Aurora",
-    "beian": "鄂ICP备20006685号"
+    "Copyright_text": "雪花已铺满了地",
+    "beian": "深怕窗外枫叶已结成冰"
 }
